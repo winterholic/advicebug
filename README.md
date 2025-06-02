@@ -1,7 +1,6 @@
-# advicebug
-바이브코딩으로만 만든 간단한 애플리케이션
 <h1 align="center">🎯 훈수충</h1>
 <p align="center"><i>나만의 데이터로 듣는 인생 훈수 한마디</i></p>
+<p align="center"><i>바이브코딩으로만 만든 간단한 애플리케이션</i></p>
 
 ---
 
