@@ -42,4 +42,4 @@
 
 ---
 
-> Made with ❤️ by [yourname]
+> Made with ❤️ by winterholic
