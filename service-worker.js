@@ -1,10 +1,10 @@
 const CACHE_NAME = 'hunsuchung-v1';
 const urlsToCache = [
-  '/advicebug/',
-  '/advicebug/index.html',
-  '/advicebug/manifest.json',
-  '/advicebug/icons/icon-192x192.png',
-  '/advicebug/icons/icon-512x512.png'
+  '/',
+  '/index.html',
+  '/manifest.json',
+  '/icons/icon-192x192.png',
+  '/icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
